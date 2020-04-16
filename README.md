@@ -1,2 +1,2 @@
-# htmlCalculator
- online calculator using html and css
+# Online Calculator
+ online calculator using html css and javascript
